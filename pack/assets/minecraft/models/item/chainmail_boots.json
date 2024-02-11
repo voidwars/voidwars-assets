@@ -1,0 +1,26 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/chainmail_boots"
+  },
+  "overrides": [
+	{"predicate":{"custom_model_data":1501}, "model": "item/light_leather_boots"},
+	{"predicate":{"custom_model_data":1502}, "model": "item/light_copper_boots"},
+	{"predicate":{"custom_model_data":1503}, "model": "item/light_iron_boots"},
+	{"predicate":{"custom_model_data":1504}, "model": "item/light_golden_boots"},
+	{"predicate":{"custom_model_data":1505}, "model": "item/light_diamond_boots"},
+	{"predicate":{"custom_model_data":1506}, "model": "item/light_netherite_boots"},
+	{"predicate":{"custom_model_data":1507}, "model": "item/medium_leather_boots"},
+	{"predicate":{"custom_model_data":1508}, "model": "item/medium_copper_boots"},
+	{"predicate":{"custom_model_data":1509}, "model": "item/medium_iron_boots"},
+	{"predicate":{"custom_model_data":1510}, "model": "item/medium_golden_boots"},
+	{"predicate":{"custom_model_data":1511}, "model": "item/medium_diamond_boots"},
+	{"predicate":{"custom_model_data":1512}, "model": "item/medium_netherite_boots"},
+	{"predicate":{"custom_model_data":1513}, "model": "item/heavy_leather_boots"},
+	{"predicate":{"custom_model_data":1514}, "model": "item/heavy_copper_boots"},
+	{"predicate":{"custom_model_data":1515}, "model": "item/heavy_iron_boots"},
+	{"predicate":{"custom_model_data":1516}, "model": "item/heavy_golden_boots"},
+	{"predicate":{"custom_model_data":1517}, "model": "item/heavy_diamond_boots"},
+	{"predicate":{"custom_model_data":1518}, "model": "item/heavy_netherite_boots"}
+  ]
+}
